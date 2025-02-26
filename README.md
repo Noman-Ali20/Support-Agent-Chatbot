@@ -34,4 +34,4 @@ The following official documentation is used to retrieve information:
 3. Run the Flask app:
    python app.py
    
-GitHUb: https://github.com/Noman-Ali20
+GitHUb: https://github.com/Noman-Ali20?tab=repositories
